@@ -1,0 +1,5 @@
+teju 17 f pinakini 30025
+haritha 18 f krishna 600 34
+teju 17 female krishna 300 23
+teju 17 female krishana 300 54
+sirisha 18 female pinakini 600 34
